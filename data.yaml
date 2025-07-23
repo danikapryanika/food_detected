@@ -1,0 +1,14 @@
+names: 
+- french_fries
+- hamburger
+- ice_cream
+- pizza
+
+nc: 4
+
+path: food_dataset  
+train: train/images
+val: val/images
+test: test/images
+
+
